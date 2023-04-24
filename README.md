@@ -1,6 +1,6 @@
 Olá, eu sou o "ChaMatte" (Matheus) 👋
 
-- 🌱 Estou estudando Engenharia de Computação - UFU
+- 🌱 Estou cursando Engenharia de Computação - UFU
 - 🤖 Apaixonado por inovações tecnologicas
 - 😄 Pronouns: ele/dele
 - ⚡ Amo chá :)
