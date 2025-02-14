@@ -1,8 +1,8 @@
 ## Olá, eu sou o Matheus Fernandes! 👋
 
--💻 Estudante de Engenharia de Computação na UFU.
--🚀 Apaixonado por tecnologia e desenvolvimento de software.
--☕ Entusiasta de inovação e, claro, um bom chá!
+💻 Estudante de Engenharia de Computação na UFU.
+🚀 Apaixonado por tecnologia e desenvolvimento de software.
+☕ Entusiasta de inovação e, claro, um bom chá!
 
 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e inteligência artificial, buscando sempre aprender e criar soluções inovadoras.
 
