@@ -13,7 +13,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e inteli
 ## 🔥 Projetos em Destaque
 
 - [Racha Cuca](https://github.com/ChaMatteCoder/racha-cuca-12121ECP002) - Resolvendo racha cuca utilizando prolog.
-- [Experimento](https://github.com/ChaMatteCoder/ExperimentoFisica) - Emulação de experimento usando python.
+- [CRUD POO](https://github.com/ChaMatteCoder/CRUD-FARMACIA-POO) - Sistema CRUD de uma farmácia simulada.
 - [Portfólio](https://github.com/ChaMatteCoder/portfolio) - Meu portfólio pessoal.
 
 ---
